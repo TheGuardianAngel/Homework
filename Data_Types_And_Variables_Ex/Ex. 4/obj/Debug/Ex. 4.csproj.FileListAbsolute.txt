@@ -1,0 +1,6 @@
+D:\Angel\SoftUni stuff\Homework\Data_Types_And_Variables_Ex\Ex. 4\bin\Debug\Ex. 4.exe.config
+D:\Angel\SoftUni stuff\Homework\Data_Types_And_Variables_Ex\Ex. 4\bin\Debug\Ex. 4.exe
+D:\Angel\SoftUni stuff\Homework\Data_Types_And_Variables_Ex\Ex. 4\bin\Debug\Ex. 4.pdb
+D:\Angel\SoftUni stuff\Homework\Data_Types_And_Variables_Ex\Ex. 4\obj\Debug\Ex. 4.csproj.CoreCompileInputs.cache
+D:\Angel\SoftUni stuff\Homework\Data_Types_And_Variables_Ex\Ex. 4\obj\Debug\Ex. 4.exe
+D:\Angel\SoftUni stuff\Homework\Data_Types_And_Variables_Ex\Ex. 4\obj\Debug\Ex. 4.pdb

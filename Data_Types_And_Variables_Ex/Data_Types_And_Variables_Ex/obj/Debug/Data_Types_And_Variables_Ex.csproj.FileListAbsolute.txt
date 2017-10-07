@@ -1,0 +1,7 @@
+D:\Angel\SoftUni stuff\Homework\Data_Types_And_Variables_Ex\Data_Types_And_Variables_Ex\bin\Debug\Data_Types_And_Variables_Ex.exe.config
+D:\Angel\SoftUni stuff\Homework\Data_Types_And_Variables_Ex\Data_Types_And_Variables_Ex\bin\Debug\Data_Types_And_Variables_Ex.exe
+D:\Angel\SoftUni stuff\Homework\Data_Types_And_Variables_Ex\Data_Types_And_Variables_Ex\bin\Debug\Data_Types_And_Variables_Ex.pdb
+D:\Angel\SoftUni stuff\Homework\Data_Types_And_Variables_Ex\Data_Types_And_Variables_Ex\obj\Debug\Data_Types_And_Variables_Ex.csprojResolveAssemblyReference.cache
+D:\Angel\SoftUni stuff\Homework\Data_Types_And_Variables_Ex\Data_Types_And_Variables_Ex\obj\Debug\Data_Types_And_Variables_Ex.csproj.CoreCompileInputs.cache
+D:\Angel\SoftUni stuff\Homework\Data_Types_And_Variables_Ex\Data_Types_And_Variables_Ex\obj\Debug\Data_Types_And_Variables_Ex.exe
+D:\Angel\SoftUni stuff\Homework\Data_Types_And_Variables_Ex\Data_Types_And_Variables_Ex\obj\Debug\Data_Types_And_Variables_Ex.pdb
