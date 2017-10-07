@@ -10,6 +10,9 @@ namespace Ex._6
     {
         static void Main(string[] args)
         {
+            string hi = "Hello";
+            string world = "World";
+            Console.WriteLine($"{hi} {world}");
         }
     }
 }
