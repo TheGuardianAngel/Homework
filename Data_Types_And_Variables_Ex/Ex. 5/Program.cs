@@ -10,6 +10,15 @@ namespace Ex._5
     {
         static void Main(string[] args)
         {
+            string state = Console.ReadLine();
+            if (state == "True")
+            {
+                Console.WriteLine("Yes");
+            }
+            else
+            {
+                Console.WriteLine("No");
+            }
         }
     }
 }
