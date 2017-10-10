@@ -1,0 +1,7 @@
+D:\Angel\SoftUni stuff\Homework\Methods\Methods_Ex\Ex.2.1\bin\Debug\Ex.2.1.exe.config
+D:\Angel\SoftUni stuff\Homework\Methods\Methods_Ex\Ex.2.1\bin\Debug\Ex.2.1.exe
+D:\Angel\SoftUni stuff\Homework\Methods\Methods_Ex\Ex.2.1\bin\Debug\Ex.2.1.pdb
+D:\Angel\SoftUni stuff\Homework\Methods\Methods_Ex\Ex.2.1\obj\Debug\Ex.2.1.csprojResolveAssemblyReference.cache
+D:\Angel\SoftUni stuff\Homework\Methods\Methods_Ex\Ex.2.1\obj\Debug\Ex.2.1.csproj.CoreCompileInputs.cache
+D:\Angel\SoftUni stuff\Homework\Methods\Methods_Ex\Ex.2.1\obj\Debug\Ex.2.1.exe
+D:\Angel\SoftUni stuff\Homework\Methods\Methods_Ex\Ex.2.1\obj\Debug\Ex.2.1.pdb
