@@ -1,0 +1,6 @@
+D:\Angel\SoftUni stuff\Homework\Ex. 7\obj\Debug\Ex. 7.csproj.CoreCompileInputs.cache
+D:\Angel\SoftUni stuff\Homework\Ex. 7\bin\Debug\Ex. 7.exe.config
+D:\Angel\SoftUni stuff\Homework\Ex. 7\bin\Debug\Ex. 7.exe
+D:\Angel\SoftUni stuff\Homework\Ex. 7\bin\Debug\Ex. 7.pdb
+D:\Angel\SoftUni stuff\Homework\Ex. 7\obj\Debug\Ex. 7.exe
+D:\Angel\SoftUni stuff\Homework\Ex. 7\obj\Debug\Ex. 7.pdb
