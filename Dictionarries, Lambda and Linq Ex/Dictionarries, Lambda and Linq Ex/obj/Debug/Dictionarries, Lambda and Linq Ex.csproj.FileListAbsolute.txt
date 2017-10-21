@@ -1,0 +1,7 @@
+D:\Angel\SoftUni stuff\Homework\Dictionarries, Lambda and Linq Ex\Dictionarries, Lambda and Linq Ex\bin\Debug\Dictionarries, Lambda and Linq Ex.exe.config
+D:\Angel\SoftUni stuff\Homework\Dictionarries, Lambda and Linq Ex\Dictionarries, Lambda and Linq Ex\bin\Debug\Dictionarries, Lambda and Linq Ex.exe
+D:\Angel\SoftUni stuff\Homework\Dictionarries, Lambda and Linq Ex\Dictionarries, Lambda and Linq Ex\bin\Debug\Dictionarries, Lambda and Linq Ex.pdb
+D:\Angel\SoftUni stuff\Homework\Dictionarries, Lambda and Linq Ex\Dictionarries, Lambda and Linq Ex\obj\Debug\Dictionarries, Lambda and Linq Ex.csprojResolveAssemblyReference.cache
+D:\Angel\SoftUni stuff\Homework\Dictionarries, Lambda and Linq Ex\Dictionarries, Lambda and Linq Ex\obj\Debug\Dictionarries, Lambda and Linq Ex.csproj.CoreCompileInputs.cache
+D:\Angel\SoftUni stuff\Homework\Dictionarries, Lambda and Linq Ex\Dictionarries, Lambda and Linq Ex\obj\Debug\Dictionarries, Lambda and Linq Ex.exe
+D:\Angel\SoftUni stuff\Homework\Dictionarries, Lambda and Linq Ex\Dictionarries, Lambda and Linq Ex\obj\Debug\Dictionarries, Lambda and Linq Ex.pdb
