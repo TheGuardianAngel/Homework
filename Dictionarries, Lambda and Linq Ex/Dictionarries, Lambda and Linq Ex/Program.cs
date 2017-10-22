@@ -11,7 +11,7 @@ namespace Dictionarries__Lambda_and_Linq_Ex
     {
         static void Main(string[] args)
         {
-            var phonebook = new Dictionary<string, string>();
+            var phonebook = new SortedDictionary<string, string>();
             phonebook.Add("Sofia", String.Empty);
             phonebook["Nakov"] = "0889227840";
             phonebook["Pesho"] = "0763 / 76423";
@@ -19,10 +19,15 @@ namespace Dictionarries__Lambda_and_Linq_Ex
             //phonebook.Remove("Nakov");
             phonebook["Ani"] = "1234567890";
 
-            if (phonebook.ContainsKey("Sofia"))
+            string val;
+            if (phonebook.TryGetValue("Pesho", out val))
             {
-                phonebook.Remove("Sofia");
+                Console.WriteLine(val);
             }
+
+            Console.WriteLine(phonebook.Count);
+
+            Console.WriteLine(phonebook.ContainsKey("Sofia"));
 
             foreach (var item in phonebook)
             {
