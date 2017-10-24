@@ -1,0 +1,7 @@
+D:\Angel\SoftUni stuff\Homework\Files, Directories and Exceptions\Files, Directories and Exceptions\bin\Debug\Files, Directories and Exceptions.exe.config
+D:\Angel\SoftUni stuff\Homework\Files, Directories and Exceptions\Files, Directories and Exceptions\bin\Debug\Files, Directories and Exceptions.exe
+D:\Angel\SoftUni stuff\Homework\Files, Directories and Exceptions\Files, Directories and Exceptions\bin\Debug\Files, Directories and Exceptions.pdb
+D:\Angel\SoftUni stuff\Homework\Files, Directories and Exceptions\Files, Directories and Exceptions\obj\Debug\Files, Directories and Exceptions.csprojResolveAssemblyReference.cache
+D:\Angel\SoftUni stuff\Homework\Files, Directories and Exceptions\Files, Directories and Exceptions\obj\Debug\Files, Directories and Exceptions.csproj.CoreCompileInputs.cache
+D:\Angel\SoftUni stuff\Homework\Files, Directories and Exceptions\Files, Directories and Exceptions\obj\Debug\Files, Directories and Exceptions.exe
+D:\Angel\SoftUni stuff\Homework\Files, Directories and Exceptions\Files, Directories and Exceptions\obj\Debug\Files, Directories and Exceptions.pdb

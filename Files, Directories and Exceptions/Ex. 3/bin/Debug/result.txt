@@ -1,0 +1,3 @@
+goshu -> 2
+nemo -> 2
+peshu -> 1
