@@ -1,0 +1,7 @@
+D:\Angel\SoftUni stuff\Homework\Strings Ex\Strings Ex\bin\Debug\Strings Ex.exe.config
+D:\Angel\SoftUni stuff\Homework\Strings Ex\Strings Ex\bin\Debug\Strings Ex.exe
+D:\Angel\SoftUni stuff\Homework\Strings Ex\Strings Ex\bin\Debug\Strings Ex.pdb
+D:\Angel\SoftUni stuff\Homework\Strings Ex\Strings Ex\obj\Debug\Strings Ex.csprojResolveAssemblyReference.cache
+D:\Angel\SoftUni stuff\Homework\Strings Ex\Strings Ex\obj\Debug\Strings Ex.csproj.CoreCompileInputs.cache
+D:\Angel\SoftUni stuff\Homework\Strings Ex\Strings Ex\obj\Debug\Strings Ex.exe
+D:\Angel\SoftUni stuff\Homework\Strings Ex\Strings Ex\obj\Debug\Strings Ex.pdb
